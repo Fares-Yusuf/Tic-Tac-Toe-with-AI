@@ -9,7 +9,7 @@
 3. [Installation and Setup](#installation-and-setup)
 4. [How to Play](#how-to-play)
 5. [Contributing](#contributing)
-6. [MIT License](#license)
+6. [MIT License](#MIT-License)
 
 ## Description
 
