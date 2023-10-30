@@ -8,8 +8,7 @@
 2. [Features](#features)
 3. [Installation and Setup](#installation-and-setup)
 4. [How to Play](#how-to-play)
-5. [Contributing](#contributing)
-6. [MIT License](#MIT-License)
+5. [MIT License](#MIT-License)
 
 ## Description
 
