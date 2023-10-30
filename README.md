@@ -5,10 +5,9 @@
 ## Table of Contents
 
 1. [Description](#description)
-2. [Features](#features)
-3. [Installation and Setup](#installation-and-setup)
-4. [How to Play](#how-to-play)
-5. [MIT License](#MIT-License)
+2. [Installation and Setup](#installation-and-setup)
+3. [How to Play](#how-to-play)
+4. [MIT License](#MIT-License)
 
 ## Description
 
@@ -24,12 +23,6 @@ Here's how it works:
 - By doing this, the AI considers all possible sequences of moves and makes the most optimal move.
 
 This implementation makes the AI a challenging opponent, as it always makes the optimal move. Enjoy testing your Tic Tac Toe skills against it!
-
-## Features
-
-- Player (X) vs Computer (O) gameplay.
-- Graphical user interface using Pygame.
-- AI opponent using Minimax algorithm.
 
 ## Installation and Setup
 
